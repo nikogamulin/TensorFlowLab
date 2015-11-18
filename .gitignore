@@ -1,0 +1,8 @@
+data/
+MNIST_data/
+.idea
+.project
+.pydevproject
+text8/
+text8.zip
+
